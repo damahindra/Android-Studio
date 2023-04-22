@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Praktikum_PAM_6_RecyclerView</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="click_to_see">Click to see</string>
+    <string name="hello_user">Hello User!</string>
+</resources>
