@@ -1,2 +1,2 @@
-# Android-Studio
-Repo ini adalah rekap tugas-tugas kuliah dalam mata kuliah "Pengembangan Aplikasi Mobile" menggunakan platform Android Studio dalam bahasa Java.
+# In This Project :
+Saya membuat sebuah UI Android sederhana yang dimana pengguna dapat menambahkan nama-nama orang lain dan menambahkan pula nomor teleponnya. Kemudian semua data tersebut akan ditampilkan dalam sebuah Recycler View sehingga pengguna dapat secara dinamis mengakses data dan menambahkan data.
